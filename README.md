@@ -5,6 +5,8 @@ Essentials of Python
 # Tasks
 Created a TODO list using Flask as Framework and MongoDB as Database.
 
+Tested the API using PyTest 
+
 Implemented GET, POST Methods.
 
 
