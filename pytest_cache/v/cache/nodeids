@@ -1,0 +1,21 @@
+[
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_config_with_uri_in_flask_conf_var",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_config_with_uri_passed_directly",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_custom_document_class",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_it_doesnt_connect_by_default",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_it_doesnt_require_db_name_in_uri",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_it_fails_with_no_uri",
+  "Lib/site-packages/flask_pymongo/tests/test_config.py::FlaskPyMongoConfigTest::test_multiple_pymongos",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSaveFile::test_it_guesses_type_from_filename",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSaveFile::test_it_returns_id",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSaveFile::test_it_saves_files",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSaveFile::test_it_saves_files_with_props",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_404s_for_missing_files",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_sets_cache_headers",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_sets_content_length",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_sets_content_type",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_sets_supports_conditional_gets",
+  "Lib/site-packages/flask_pymongo/tests/test_gridfs.py::TestSendFile::test_it_streams_results",
+  "Lib/site-packages/flask_pymongo/tests/test_url_converter.py::UrlConverterTest::test_bson_object_id_converter",
+  "Lib/site-packages/flask_pymongo/tests/test_wrappers.py::CollectionTest::test_find_one_or_404"
+]
